@@ -10,6 +10,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29496#Christopher-Columbus-and-His-Monument-Columbiahis-grand-discovery-and-his-greatness-of-mind-a_
 gutenberg_issued: '2009-07-23'
 gutenberg_type: Text
 identifiers:
