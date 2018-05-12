@@ -1,0 +1,29 @@
+_repo: Christopher-Columbus-and-His-Monument-Columbiahis-grand-discovery-and-his-greatness-of-mind-a__29496
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Dickey, J. M. (John Marcus)
+    alias: Dickey, John Marcus
+    gutenberg_agent_id: '33951'
+    url: http://www.gutenberg.org/2009/agents/33951
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2009-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29496'
+  lccn: 02007943
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Columbus, Christopher -- Monuments'
+- !lcsh 'Columbus, Christopher'
+title: "Christopher Columbus and His Monument Columbia\r\nbeing a concordance of choice\
+  \ tributes to the great Genoese, his grand discovery, and his greatness of mind\
+  \ and purpose"
+url: http://www.gutenberg.org/ebooks/29496
